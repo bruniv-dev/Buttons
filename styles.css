@@ -76,7 +76,7 @@ body {
 
 .b-2:hover {
   color: rgb(255, 232, 236);
-  transition: 0.2s ease-in-out;
+  transition: 0.3s ease-in-out;
   text-shadow: 0 0 2px 20px;
 }
 
